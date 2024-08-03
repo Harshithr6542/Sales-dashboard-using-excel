@@ -14,3 +14,12 @@ Pivot Tables: Analyze data with powerful pivot tables.
 Slicers: Easily filter data by various dimensions such as date, product, and region.
 KPI Metrics: View key performance indicators such as total sales, average order value, and growth rates.
 User-Friendly Interface: Navigate the dashboard with an intuitive and user-friendly interface.
+
+** Key Bussiness Problem highlighted in the dashboard**
+1. What is the sales of each item over the years from 2014 to 2017 ?
+2. How much maximum sales we reached in each year ?
+3. what is the sales we provide in the different region of the country?
+4. what is the profit gained in each year and cummulative of all years?
+5. What is the total number of customer we hold?
+6. List of the top 5 frequent customers ?
+7. what is the monthly sales of each item in every year?
